@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Firebase cache
+.firebase/
+firebase-debug.log*
+
+# Environment
+.env
+.env.local
